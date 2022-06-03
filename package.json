@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/swethagen.lwc-l3xoq6nb-fork-l3xoyuny",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve DO2DNyRusVBoMRICivYw --open"
+  }
+}
